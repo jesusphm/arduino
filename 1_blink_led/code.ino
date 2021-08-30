@@ -1,4 +1,4 @@
-const int ledPIN = 11;
+const int ledPIN = 9;
  
 void setup() {
   Serial.begin(9600);    //iniciar puerto serie
